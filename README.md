@@ -1,5 +1,5 @@
 - Hi 👋, I’m Suong.
-- 👀 Visit my [Website](https://databl0g.github.io/suongfiori.github.io/), [Kaggle](https://www.kaggle.com/mimosabella) and [Tableau Public]() pages.
+- 👀 Visit my [Portfolio](https://databl0g.github.io/suongfiori.github.io/), [Kaggle](https://www.kaggle.com/mimosabella) and [Tableau Public]() pages.
 - 📫 Reach me at [email](suong.kf@gmail.com)
 
 <!---
